@@ -28,7 +28,7 @@ plugins/
 plugins/android.json
 plugins/ios.json
 www/
-src/app/firebase.credential.ts
+src/app/firebase.credentials.ts
 $RECYCLE.BIN/
 
 .editorconfig
